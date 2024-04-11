@@ -57,16 +57,4 @@ tesouraria:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
-O LINCE é dividido nos seguintes setores:
-<br>
-<h1 style="text-align: center;">Presidência</h1>
-{% include feature_row id="presidencia"%}
 
-<h1 style="text-align: center;">Projetos</h1>
-{% include feature_row id="projetos"%}
-
-<h1 style="text-align: center;">Marketing</h1>
-{% include feature_row id="marketing"%}
-
-<h1 style="text-align: center;">Tesouraria</h1>
-{% include feature_row id="tesouraria"%}
