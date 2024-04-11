@@ -57,7 +57,7 @@ tesouraria:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
-O LINCE é dividido no seguintes setores:
+O LINCE é dividido nos seguintes setores:
 <br>
 <h1 style="text-align: center;">Presidência</h1>
 {% include feature_row id="presidencia"%}
